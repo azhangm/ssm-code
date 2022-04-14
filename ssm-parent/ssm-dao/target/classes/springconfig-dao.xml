@@ -24,7 +24,7 @@
 
     </bean>
     <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-        <property name="basePackage" value="com.dajuancai.dao.TestMapper"/>
+        <property name="basePackage" value="com.dajuancai.dao"/>
     </bean>
 <!--    <bean id="testMappr" name="testMapper" class="org.mybatis.spring.mapper.MapperFactoryBean">-->
 <!--        <property name="mapperInterface" value="com.dajuancai.dao.TestMapper"/>-->

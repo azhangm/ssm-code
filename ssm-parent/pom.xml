@@ -14,11 +14,6 @@
         <module>ssm-dao</module>
         <module>ssm-service</module>
         <module>ssm-web</module>
-        <module>ssm-dao</module>
-        <module>ssm-domain</module>
-        <module>ssm-service</module>
-        <module>ssm-web</module>
-        <module>ssm-utils</module>
     </modules>
     <!-- 对 jar  包 进行声明-->
     <properties>
